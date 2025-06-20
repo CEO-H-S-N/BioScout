@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+openai
+sentence-transformers
+python-dotenv
+scikit-learn
+Pillow

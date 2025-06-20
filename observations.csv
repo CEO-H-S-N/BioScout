@@ -1,0 +1,11 @@
+observation_id,species_name,common_name,date_observed,location,image_url,notes
+1,Panthera pardus,Common Leopard,2025-05-15,Trail 5 - Margalla Hills,http://example.com/leopard.jpg,Observed resting near rocky outcrop
+2,Psittacula krameri,Rose-ringed Parakeet,2025-05-14,F-6 Park,http://example.com/parakeet.jpg,Group of 5 seen chirping in fig tree
+3,Macaca mulatta,Rhesus Macaque,2025-05-13,Daman-e-Koh,http://example.com/monkey.jpg,Seen foraging in tourist area
+4,Pavo cristatus,Indian Peafowl,2025-05-13,Ramkot Fort,http://example.com/peafowl.jpg,Displaying plumage during sunset
+5,Anas platyrhynchos,Mallard Duck,2025-05-12,Rawal Lake,http://example.com/duck.jpg,Swimming near reeds with 3 ducklings
+6,Milvus migrans,Black Kite,2025-05-12,Lok Virsa Museum,http://example.com/kite.jpg,Circling overhead in windy weather
+7,Felis chaus,Jungle Cat,2025-05-11,Shakarparian,http://example.com/junglecat.jpg,Crossed trail silently at dusk
+8,Francolinus francolinus,Black Francolin,2025-05-10,Bani Gala,http://example.com/francolin.jpg,Calling loudly near shrubs
+9,Hystrix indica,Indian Crested Porcupine,2025-05-09,Trail 3 - Margalla Hills,http://example.com/porcupine.jpg,Scattered quills found near burrow
+10,Dendrocitta formosae,Gray Treepie,2025-05-08,Fatima Jinnah Park,http://example.com/treepie.jpg,Jumping between branches in acacia tree
