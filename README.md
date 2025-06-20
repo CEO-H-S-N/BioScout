@@ -56,6 +56,7 @@ Offline field mode with PWA support
 ---
 
 📜 License
+
 This project is open-source under the MIT License.
 
 ---
