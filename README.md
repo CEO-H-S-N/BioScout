@@ -102,5 +102,3 @@ BioScout/
 ├── scores.csv               # Leaderboard mockup
 ├── requirements.txt         # Dependencies
 └── README.md                # Project description
-
----
