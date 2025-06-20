@@ -43,6 +43,49 @@ Are there recent leopard sightings near Rawal Lake?
 
 ---
 
+📁 File Structure
+
+graphql
+Copy
+Edit
+BioScout/
+│
+├── app.py                   # Main Streamlit app
+├── utils/                   # API and RAG helpers
+├── rag_knowledge/           # Biodiversity knowledge base (text snippets)
+├── observations.csv         # Simulated observations
+├── scores.csv               # Leaderboard mockup
+├── requirements.txt         # Dependencies
+└── README.md                # Project description
+
+---
+
+📈 Future Ideas
+
+User accounts and authentication
+
+Community-validated species IDs
+
+Multilingual Q&A (Urdu)
+
+Offline field mode with PWA support
+
+---
+
+📜 License
+This project is open-source under the MIT License.
+
+---
+
+## ✅ 2. `requirements.txt`
+
+streamlit
+pandas
+numpy
+Pillow
+sentence-transformers
+scikit-learn
+
 ## 💾 Installation
 
 ```bash
@@ -54,3 +97,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 pip install -r requirements.txt
 streamlit run app.py
+
+---
+
